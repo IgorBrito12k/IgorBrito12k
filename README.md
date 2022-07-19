@@ -28,8 +28,6 @@
 <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/igor-brito-101baa1a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="igor-linkedin"></a>
-    <a href="https://twitter.com/Iguinhk">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="igor-Twitter"></a>
     <a href="https://www.facebook.com/igor.brito.902/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="igor-facebook"></a>
     <a href="https://www.instagram.com/igor.brits/">
