@@ -1,5 +1,7 @@
 # Olá eu sou o Igor Brito 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorBrito12k&color=yellow" alt="Profile views" /> </p>
+
 - 😥Hoje ainda não trabalho na área de programação 
 - 🏫Estudante da FATEC São José do Rio Preto
 - 💻Cursando Informática para negócios
