@@ -1,6 +1,6 @@
 # Olá eu sou o Igor Brito 
 
-- 😥Hoje ainda não trabalho na área de programação 
+- Estágiario na empresa Rodobens S/A
 - 🏫Estudante da FATEC São José do Rio Preto
 - 💻Cursando Informática para negócios
 - ✉️Contate-me no email: igorbrito1254@outlook.com
