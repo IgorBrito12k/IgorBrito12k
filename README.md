@@ -1,6 +1,6 @@
 # Olá eu sou o Igor Brito 
 
-- 💻Estágiario na empresa Rodobens S/A
+- 💻Estágiario na empresa Rodobens S/A | TI - Sistemas consórcio
 - 🎒Estudante da FATEC São José do Rio Preto
 - 📚Cursando Informática para negócios
 - ✉️Contate-me no email: igorbrito1254@outlook.com
