@@ -1,4 +1,4 @@
-# Olá eu sou o Igor Brito 
+# Olá, eu sou o Igor Brito 
 
 - 💻Estágiario na empresa Rodobens S/A | TI - Sistemas consórcio
 - 🎒Estudante da FATEC São José do Rio Preto
